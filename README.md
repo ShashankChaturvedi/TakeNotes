@@ -1,10 +1,9 @@
+# An Note taking app using React.js and React-mde
+
 # TO run it locally:  
 ## clone this repo, use terminal and go to the folder, type npm i and after it is over type npm start.
 # TO host it on netlify:
 ##  run npm run build after npm i , and a build folder will appear, drag and dropthat build folder to netlify.
-
-
-
 
 
 
